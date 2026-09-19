@@ -1,0 +1,4 @@
+.env
+.venv/
+documents/
+.vector_cache/
